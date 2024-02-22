@@ -39,9 +39,9 @@ export default {
 }
 
 .button:hover::after {
-    transition: all 0.45s ease 0.05s;
-    left: 7px;
-    bottom: 7px;
+  transition: all 0.45s ease 0.05s;
+  left: 7px;
+  bottom: 7px;
 }
 
 
